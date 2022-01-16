@@ -1,6 +1,5 @@
 
 def add_string(str1):
-  #start writing your code here
   new_str=""
   if(len(str1)>=3):
       # print(str[-3:])
